@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/_MyScenes/Example2 (Using vertex to descripe Circular images).unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
