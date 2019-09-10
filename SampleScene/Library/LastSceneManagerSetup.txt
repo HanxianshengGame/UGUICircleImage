@@ -1,5 +1,7 @@
 sceneSetups:
-- path: Assets/_MyScenes/Example2 (Using vertex to descripe Circular images).unity
+- path: "Assets/_MyScenes/Example 2.2 (CD Cooling , Accuracy of clicking regular and
+    irregular polygon buttons)        (CircleImage\u7684CD\u51B7\u5374\u6548\u679C
+    \ \u89C4\u5219\u4E0E\u4E0D\u89C4\u5219\u591A\u8FB9\u5F62\u6309\u94AE\u7684\u70B9\u51FB\u7CBE\u51C6\u5316).unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0

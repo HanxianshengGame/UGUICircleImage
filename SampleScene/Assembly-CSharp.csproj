@@ -55,9 +55,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\_MyScripts\Example1\Click3DGameObjectChangeColor.cs" />
-     <Compile Include="Assets\_MyScripts\Example1\ClickUIChangeColor.cs" />
-     <Compile Include="Assets\_MyScripts\Example2\CircleImage.cs" />
+     <Compile Include="Assets\_MyScripts\Example 1\Click3DGameObjectChangeColor.cs" />
+     <Compile Include="Assets\_MyScripts\Example 1\ClickUIChangeColor.cs" />
+     <Compile Include="Assets\_MyScripts\Example 2.1\CircleImageSolution   （制作圆形Image组件）\CircleImage.cs" />
+     <Compile Include="Assets\_MyScripts\Example 2.2\CircleImage CDCooling And MyAccurateClick  (规则多边形button精准点击方案，圆形ImageCD冷却方案)\CircleImage.cs" />
+     <Compile Include="Assets\_MyScripts\Example 2.2\CustomImage  (不规则多边形button精准点击方案)\CustomImage.cs" />
+     <Compile Include="Assets\_MyScripts\Example 2.2\Unity官方   (多边形Button精准点击解决方案)\UnityAccurateClick.cs" />
+     <Compile Include="Assets\_MyScripts\Example 3\RotationDiagram2D.cs" />
+     <Compile Include="Assets\_MyScripts\Example 3\RotationDiagramItem.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>F:/SikiA/UGUI/SampleScene/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
