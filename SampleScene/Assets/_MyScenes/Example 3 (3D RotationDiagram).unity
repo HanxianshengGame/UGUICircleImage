@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 795203582}
   - component: {fileID: 795203583}
   m_Layer: 5
-  m_Name: GameObject
+  m_Name: Parent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -168,8 +168,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1624cf36f7600d488bc64ff24247ad9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ItemSize: {x: 0, y: 0}
-  ItemSprites: []
+  ItemSize: {x: 300, y: 350}
+  ItemSprites:
+  - {fileID: 21300000, guid: f21bce169911e7c4eb0bbc96cdf72851, type: 3}
+  - {fileID: 21300000, guid: d9d7a93d379f5a540ae4d3526680660d, type: 3}
+  - {fileID: 21300000, guid: 34e1f7608cf4a8143bfe3e4a21e9f38c, type: 3}
+  - {fileID: 21300000, guid: 3fbcb720f41c3cd4ca5936fb145ce527, type: 3}
+  - {fileID: 21300000, guid: d73158f51c0a2b34aae165622863f283, type: 3}
+  - {fileID: 21300000, guid: 834497809e7d99646a09b47ddfd0a141, type: 3}
+  - {fileID: 21300000, guid: 0bc5e512aa7de5b47b252998ec0c4b4f, type: 3}
+  - {fileID: 21300000, guid: 09fd977fcd4d32b4398cd699772b67f6, type: 3}
+  itemOffset: 500
+  scaleMax: 1
+  scaleMin: 0.5
 --- !u!1 &980804222
 GameObject:
   m_ObjectHideFlags: 0

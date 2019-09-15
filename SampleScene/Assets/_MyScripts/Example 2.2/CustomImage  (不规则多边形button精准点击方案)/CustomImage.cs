@@ -20,6 +20,7 @@ namespace Example2_2
         {
             Vector3 tempPos;
             RectTransformUtility.ScreenPointToWorldPointInRectangle(rectTransform, screenPoint, eventCamera, out tempPos);
+
             return PolygonCollider2D.OverlapPoint(tempPos);
         }
     }

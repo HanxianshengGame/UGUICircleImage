@@ -147,7 +147,7 @@ namespace Example2_2             //在CircleImage组件基础上实现技能CD�
         {
             Vector2 localPoint;
             RectTransformUtility.ScreenPointToLocalPointInRectangle(rectTransform, screenPoint, eventCamera, out localPoint);
-
+         //   Debug.Log(localPoint + " " + screenPoint);
             return ClickPointIsVaild(localPoint);
         }
         /// <summary>
